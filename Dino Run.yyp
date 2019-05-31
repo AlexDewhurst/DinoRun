@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "d6f6ddde-8e80-454a-9704-d0f7342c98c5",
+            "Value": {
+                "id": "f30b3772-93c3-41e6-a37f-6c3d581d0f57",
+                "resourcePath": "fonts\\fnt_main\\fnt_main.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "da94a943-cba7-4617-9061-2894a758a3e0",
             "Value": {
                 "id": "1690f84c-251b-4aa3-99d5-f276e8b0ea7e",
