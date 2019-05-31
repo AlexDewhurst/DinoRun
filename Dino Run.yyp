@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "02fe4ab2-ef74-42e2-bbbd-8085d3ccdcbe",
+            "Value": {
+                "id": "2cb7b728-6ff9-4497-a6e3-81275a2b8ec7",
+                "resourcePath": "sprites\\spr_pterodactyl\\spr_pterodactyl.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "153d6b1c-4fa3-463c-a354-e6c76368c957",
             "Value": {
                 "id": "34a63327-bfa2-4a85-bf17-22af14d8a0ec",
                 "resourcePath": "views\\153d6b1c-4fa3-463c-a354-e6c76368c957.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "193770f1-de8d-4eda-9058-6f1ae25b7d71",
+            "Value": {
+                "id": "2f9247c5-9256-4633-a504-ecc3d1bf848a",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -67,6 +83,14 @@
             "Value": {
                 "id": "c577c434-62ed-4404-8b55-d75562568bd2",
                 "resourcePath": "sprites\\spr_dino_run\\spr_dino_run.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "459e718f-24c5-4bd1-9148-f725503fd5ef",
+            "Value": {
+                "id": "29090eca-4e65-4ce2-bede-816f31ac968c",
+                "resourcePath": "sprites\\spr_cactus_large\\spr_cactus_large.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -207,6 +231,14 @@
             }
         },
         {
+            "Key": "d5f3923c-8ea3-4d06-ae8c-e23a00ae04eb",
+            "Value": {
+                "id": "32d517f6-12d8-446b-9cf9-77e8cd53268e",
+                "resourcePath": "sprites\\spr_cactus_small\\spr_cactus_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "da94a943-cba7-4617-9061-2894a758a3e0",
             "Value": {
                 "id": "1690f84c-251b-4aa3-99d5-f276e8b0ea7e",
@@ -220,6 +252,14 @@
                 "id": "b2b93517-d3ac-4600-89c6-85c6db7b3793",
                 "resourcePath": "views\\db1b7d84-7544-40b0-bbfb-a2059ac12103.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e41d6b2f-3456-40fb-9ecd-9a8c4dbd9a8e",
+            "Value": {
+                "id": "7fc1031c-250c-486c-bfb0-18c47328a3f8",
+                "resourcePath": "objects\\obj_obstacle\\obj_obstacle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
