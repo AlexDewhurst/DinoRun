@@ -25,4 +25,6 @@ switch (i.sprite_index)
 	i.y = choose(room_height - 85, room_height - 145, room_height - 180);
 }
 
+if (global.gameOver) exit;
+
 alarm[0] = room_speed * random_range(1/global.speedModifier, 3/global.speedModifier);
